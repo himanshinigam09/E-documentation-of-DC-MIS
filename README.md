@@ -1,1 +1,14 @@
-# Minor-Project
+Beginning my first project :- 
+To get involved in any application software or building a system, our first prerequisite should be to know 'what is a system?'.
+-A system is a set of components that interacts to accomplish some purpose.
+And then getting to know 'how a sytem a works?'.
+-For this I've learned SDLC (System Development Life Cycle), that gives a full description about how to design a whole system.
+This cycle includes 7 stages :- 
+1. Recognition of need
+2. Preliminary investigation/feasibility study
+3. Analysis
+4. Design
+5. Implementation
+6. Testing
+7. Post implementation and maintenance
+
